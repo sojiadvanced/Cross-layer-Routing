@@ -1,2 +1,5 @@
-# ns-3-carp
-Implementation of a cross-layer routing module in ns-3 to supports data communication in underwater wireless sensor networks.
+# Project Title
+Implementation of the Channel-aware Routing Protocol in Network Simulator (ns-3)
+
+# Usage
+This cross-layer routing protocol could be used to evaluate the performance of existing routing protocol in ns-3
